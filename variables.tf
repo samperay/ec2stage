@@ -12,3 +12,7 @@ variable "inst_counts" {
   description = "# of servers"
   type  = number
 }
+
+variable "name" {
+  description = "name of the environment"
+  type = string
