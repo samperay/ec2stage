@@ -16,3 +16,4 @@ variable "inst_counts" {
 variable "name" {
   description = "name of the environment"
   type = string
+}
